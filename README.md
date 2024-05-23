@@ -34,7 +34,6 @@ Used library
 - Apollo client for GraphQL
 - x-data-grid
 
-![alt text](Homepage.png)
+![alt text](image-4.png)
 
-listing page
-![alt text](listing.png)
+![alt text](image-5.png)
